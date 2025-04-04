@@ -49,9 +49,25 @@ const CONFIG = {
           link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
         },
         {
-          title: 'Credit Card',
+          title: 'Meeting to Article Content Generation',
           description:
-            'Ask natural language questions to your dataset',
+            'Turn talk into text, effortlessly: Developed a user-friendly platform that effortlessly converts audio meetings into well-organized articles. Simply upload your meeting recordings, specify your desired length, and receive a well structured article with key points and speaker attribution.',
+          imageUrl:
+            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/article.jpg',
+          link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
+        },
+        {
+          title: 'Multilingual Document Discovery',
+          description:
+            'Instant information, any language: Created a platform that transforms document search with LLM technology, enabling users to ask questions and receive relevant answers from lengthy documents in their preferred language, simplifying knowledge discovery.',
+          imageUrl:
+            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/knowledge_article.jpg',
+          link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
+        },
+        {
+          title: 'Credit Card Fraud Detection',
+          description:
+            'Ask natural language questions to your dataset. Developed a targeted machine learning model using Random Forest to reduce unnecessary contact, Developed a targeted machine learning model using Random Forest to reduce unnecessary contact',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/credit_fraud.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
@@ -91,7 +107,7 @@ const CONFIG = {
     // skype: '',
     // telegram: '',
     // website: 'https://www.arifszn.com',
-    phone: '',
+    // phone: '',
     email: 'pavithraselvaraj98@gmail.com',
   },
   resume: {
@@ -218,7 +234,7 @@ const CONFIG = {
       'halloween',
       'garden',
       'forest',
-      'aqua',
+      // 'aqua',
       // 'lofi',
       // 'pastel',
       // 'fantasy',

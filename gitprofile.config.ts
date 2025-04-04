@@ -114,6 +114,12 @@ const CONFIG = {
     'Antd',
     'Tailwind',
   ],
+  tools: [
+    'PHP',
+    'Laravel',
+    'JavaScript',
+    'React.js',
+  ],
   experiences: [
     {
       company: 'Tiger Analytics',

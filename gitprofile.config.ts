@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Multilanguage video summarization',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Pavithra',
     description: '',
     imageURL: '',
   },
@@ -107,8 +107,8 @@ const CONFIG = {
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Ford motor private limited',
+      position: 'Software engineer',
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',

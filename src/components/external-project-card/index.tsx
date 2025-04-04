@@ -112,7 +112,7 @@ const ExternalProjectCard = ({
                     </div>
                   )}
                   <p className="mt-2 text-base-content text-opacity-60 text-sm text-justify">
-                     dangerouslySetInnerHTML={{ __html: item.description }}
+                    {item.description}
                   </p>
                 </div>
               </div>

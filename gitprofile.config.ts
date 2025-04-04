@@ -11,23 +11,23 @@ const CONFIG = {
    */
   base: '/',
   projects: {
-    // github: {
-    //   display: true, // Display GitHub projects?
-    //   header: 'Github Projects',
-    //   mode: 'automatic', // Mode can be: 'automatic' or 'manual'
-    //   automatic: {
-    //     sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-    //     limit: 8, // How many projects to display.
-    //     exclude: {
-    //       forks: false, // Forked projects will not be displayed if set to true.
-    //       projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
-    //     },
-    //   },
-    //   manual: {
-    //     // Properties for manually specifying projects
-    //     projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-    //   },
-    // },
+    github: {
+      display: False, // Display GitHub projects?
+      header: 'Github Projects',
+      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      automatic: {
+        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        limit: 8, // How many projects to display.
+        exclude: {
+          forks: false, // Forked projects will not be displayed if set to true.
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        },
+      },
+      manual: {
+        // Properties for manually specifying projects
+        projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+      },
+    },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -48,6 +48,22 @@ const CONFIG = {
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
         },
+        {
+          title: 'Credit Card',
+          description:
+            'Ask natural language questions to your dataset',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
+        },
+        {
+          title: 'CollectionsAI',
+          description:
+            'Ask natural language questions to your dataset.Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
+        }
       ],
     },
   },
@@ -57,26 +73,26 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    linkedin: 'pavithra-selvaraj-a569771a3',
+    // x: 'arif_szn',
+    // mastodon: 'arifszn@mastodon.social',
+    // researchGate: '',
+    // facebook: '',
+    // instagram: '',
+    // reddit: '',
+    // threads: '',
+    // youtube: '', // example: 'pewdiepie'
+    // udemy: '',
+    // dribbble: '',
+    // behance: '',
+    // medium: 'arifszn',
+    // dev: 'arifszn',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'pavithraselvaraj98@gmail.com@gmail.com',
   },
   resume: {
     fileUrl:

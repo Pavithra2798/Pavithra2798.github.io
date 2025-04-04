@@ -105,6 +105,7 @@ const CONFIG = {
     'GCP',
     'MLFlow',
     'Data analysis',
+    'Pandas',
     'SQL',
     'PostgreSQL',
     'Git',

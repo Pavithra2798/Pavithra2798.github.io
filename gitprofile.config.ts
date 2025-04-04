@@ -87,10 +87,10 @@ const CONFIG = {
     // behance: '',
     // medium: 'arifszn',
     // dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
+    // stackoverflow: '', // example: '1/jeff-atwood'
+    // skype: '',
+    // telegram: '',
+    // website: 'https://www.arifszn.com',
     phone: '',
     email: 'pavithraselvaraj98@gmail.com',
   },
@@ -99,20 +99,16 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
+    'Python',
+    'Machine Learning',
+    'LLM',
+    'GCP',
+    'MLFlow',
+    'Data analysis',
+    'SQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   tools: [
     'PHP',
@@ -136,17 +132,17 @@ const CONFIG = {
       companyLink: 'https://example.com',
     },
   ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
+  // certifications: [
+  //   {
+  //     name: 'Lorem ipsum',
+  //     body: 'Lorem ipsum dolor sit amet',
+  //     year: 'March 2022',
+  //     link: 'https://example.com',
+  //   },
+  // ],
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'Coimbatore Institute of Technology',
       degree: 'Degree',
       from: '2015',
       to: '2019',
@@ -158,7 +154,7 @@ const CONFIG = {
       to: '2014',
     },
   ],
-  publications: [
+  Biology: [
     {
       title: 'Publication Title',
       conferenceName: '',

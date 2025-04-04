@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Question your dataset',
           description:
-            'No code, Just answers: Built an LLM-powered tool that lets anyone ask questions of their data in plain language, bypassing the need for complex coding and formulae to unlock hidden patterns and make data-driven decisions, effortlessly. Just type in your question, let the application do the rest. Python, PaLM 2, Prompt Engineering, Pandas, PySpark, Langchain, VertexAI, Cloud Build, Flask, HTML, CSS',
+            'No code, Just answers: Built an LLM-powered tool that lets anyone ask questions of their data in plain language, bypassing the need for complex coding and formulae to unlock hidden patterns and make data-driven decisions, effortlessly. Just type in your question, let the application do the rest.',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/954cef09-ea2a-4966-bed2-56a36847ac22.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Multilanguage video summarization',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Ask, translate, summarize - video learning, redefined: Engineered a prototype of a multi-lingual video summarization tool, leveraging LLM that transforms multiple lengthy video content into concise, accessible summaries. Ask questions and receive concise responses across all languages.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
@@ -59,7 +59,7 @@ const CONFIG = {
         {
           title: 'CollectionsAI',
           description:
-            'Ask natural language questions to your dataset.Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.',
+            'Less Calls, Happy Customers: Developed a targeted machine learning model using Random Forest to reduce unnecessary contact attempts for delinquent customers resulting in 66% reduction in contact frequency and increasing customer satisfaction through personalized communications.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
@@ -110,26 +110,26 @@ const CONFIG = {
     'Git',
     'Docker',
   ],
-  tools: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-  ],
+  // tools: [
+  //   'PHP',
+  //   'Laravel',
+  //   'JavaScript',
+  //   'React.js',
+  // ],
   experiences: [
     {
       company: 'Tiger Analytics',
       position: 'Data Scientist',
-      from: 'September 2021',
+      from: 'December 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.tigeranalytics.com/',
     },
     {
-      company: 'Ford motor private limited',
-      position: 'Software engineer',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Ford Motor Private Limited',
+      position: 'Software engineer - AI/ML',
+      from: 'November 2024',
+      to: 'july 2020',
+      companyLink: 'https://www.india.ford.com/about-ford/corporate/company-profile/',
     },
   ],
   // certifications: [
@@ -143,37 +143,37 @@ const CONFIG = {
   educations: [
     {
       institution: 'Coimbatore Institute of Technology',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      degree: 'Bachelors in Computer Science and Engineering',
+      from: '2016',
+      to: '2020',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+    // {
+    //   institution: 'Institution Name',
+    //   degree: 'Degree',
+    //   from: '2012',
+    //   to: '2014',
+    // },
   ],
-  Biology: [
-    {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-  ],
+  // Publications: [
+  //   {
+  //     title: 'Publication Title',
+  //     conferenceName: '',
+  //     journalName: 'Journal Name',
+  //     authors: 'John Doe, Jane Smith',
+  //     link: 'https://example.com',
+  //     description:
+  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+  //   },
+  //   {
+  //     title: 'Publication Title',
+  //     conferenceName: 'Conference Name',
+  //     journalName: '',
+  //     authors: 'John Doe, Jane Smith',
+  //     link: 'https://example.com',
+  //     description:
+  //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+  //   },
+  // ],
   // Display articles from your medium or dev account. (Optional)
   // blog: {
   //   source: 'dev', // medium | dev
@@ -189,7 +189,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode

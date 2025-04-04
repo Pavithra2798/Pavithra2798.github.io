@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Ask natural language questions to your dataset',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'images/954cef09-ea2a-4966-bed2-56a36847ac22.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
         },
         {

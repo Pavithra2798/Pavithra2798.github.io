@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Question your dataset',
           description:
-            '<b>No code, Just answers:</b> Built an LLM-powered tool that lets anyone ask questions of their data in plain language, bypassing the need for complex coding and formulae to unlock hidden patterns and make data-driven decisions, effortlessly. Just type in your question, let the application do the rest. <br> Python, PaLM 2, Prompt Engineering, Pandas, PySpark, Langchain, VertexAI, Cloud Build, Flask, HTML, CSS',
+            <b>'No code, Just answers:' </b> 'Built an LLM-powered tool that lets anyone ask questions of their data in plain language, bypassing the need for complex coding and formulae to unlock hidden patterns and make data-driven decisions, effortlessly. Just type in your question, let the application do the rest. <br> Python, PaLM 2, Prompt Engineering, Pandas, PySpark, Langchain, VertexAI, Cloud Build, Flask, HTML, CSS',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/954cef09-ea2a-4966-bed2-56a36847ac22.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',

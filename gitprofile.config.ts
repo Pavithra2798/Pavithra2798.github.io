@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'No code, Just answers: Built an LLM-powered tool that lets anyone ask questions of their data in plain language, bypassing the need for complex coding and formulae to unlock hidden patterns and make data-driven decisions, effortlessly. Just type in your question, let the application do the rest.',
           imageUrl:
-            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/954cef09-ea2a-4966-bed2-56a36847ac22.jpg',
+            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/dataset.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Ask, translate, summarize - video learning, redefined: Engineered a prototype of a multi-lingual video summarization tool, leveraging LLM that transforms multiple lengthy video content into concise, accessible summaries. Ask questions and receive concise responses across all languages.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/video_summary.jpg',
           link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Ask natural language questions to your dataset',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/credit_fraud.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
         },
         {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Less Calls, Happy Customers: Developed a targeted machine learning model using Random Forest to reduce unnecessary contact attempts for delinquent customers resulting in 66% reduction in contact frequency and increasing customer satisfaction through personalized communications.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/collectionsAI.jpg',
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
         }
       ],

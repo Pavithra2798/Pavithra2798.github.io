@@ -249,11 +249,11 @@ const CONFIG = {
       // 'base-100': '#E3E3ED',
       // '--rounded-box': '3rem',
       // '--rounded-btn': '3rem',
-      primary: '#1f2937', // Dark gray for primary color
-      secondary: '#3b82f6', // Blue for secondary color
-      accent: '#f97316', // Orange for accent color
-      neutral: '#111827', // Very dark gray for neutral color
-      'base-100': '#1a202c', // Dark background color
+      primary: '#abe5b0', // Dark gray for primary color
+      secondary: '#abe1e5', // Blue for secondary color
+      accent: '#bfabe5', // Orange for accent color
+      neutral: '#e5abda', // Very dark gray for neutral color
+      'base-100': '#e5dfab', // Dark background color
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },

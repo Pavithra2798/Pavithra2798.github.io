@@ -11,23 +11,23 @@ const CONFIG = {
    */
   base: '/',
   projects: {
-    github: {
-      display: true, // Display GitHub projects?
-      header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
-      automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
-        exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
-        },
-      },
-      manual: {
-        // Properties for manually specifying projects
-        projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
-    },
+    // github: {
+    //   display: true, // Display GitHub projects?
+    //   header: 'Github Projects',
+    //   mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+    //   automatic: {
+    //     sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+    //     limit: 8, // How many projects to display.
+    //     exclude: {
+    //       forks: false, // Forked projects will not be displayed if set to true.
+    //       projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+    //     },
+    //   },
+    //   manual: {
+    //     // Properties for manually specifying projects
+    //     projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+    //   },
+    // },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -38,7 +38,7 @@ const CONFIG = {
             'Ask natural language questions to your dataset',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
         },
         {
           title: 'Multilanguage video summarization',
@@ -46,7 +46,7 @@ const CONFIG = {
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
         },
       ],
     },

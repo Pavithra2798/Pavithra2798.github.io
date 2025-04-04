@@ -252,8 +252,8 @@ const CONFIG = {
       primary: '#e59f4b', // Orange for primary color
       secondary: '#d6e54b', // Yellow for secondary color
       accent: '#4bbce5', // blue accent color
-      neutral: '#a4e54b', // Green for neutral color
-      'base-100': '#3c3736', // Dark brownish black
+      neutral: '#e59f4b', // Green for neutral color
+      'base-100': '#063970', // Dark blue
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },

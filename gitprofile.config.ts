@@ -242,11 +242,18 @@ const CONFIG = {
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
+      // primary: '#fc055b',
+      // secondary: '#219aaf',
+      // accent: '#e8d03a',
+      // neutral: '#2A2730',
+      // 'base-100': '#E3E3ED',
+      // '--rounded-box': '3rem',
+      // '--rounded-btn': '3rem',
+      primary: '#1f2937', // Dark gray for primary color
+      secondary: '#3b82f6', // Blue for secondary color
+      accent: '#f97316', // Orange for accent color
+      neutral: '#111827', // Very dark gray for neutral color
+      'base-100': '#1a202c', // Dark background color
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },

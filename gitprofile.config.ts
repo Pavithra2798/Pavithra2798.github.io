@@ -253,7 +253,7 @@ const CONFIG = {
       secondary: '#d6e54b', // Yellow for secondary color
       accent: '#4bbce5', // blue accent color
       neutral: '#e59f4b', // Green for neutral color
-      'base-100': '#052950', // Dark blue
+      'base-100': '#2b2f34', // Dark blue
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },

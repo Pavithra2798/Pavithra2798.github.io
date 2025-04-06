@@ -171,7 +171,7 @@ const CONFIG = {
     //   to: '2014',
     // },
   ],
-  Experience: [
+  Publications: [
     {
       title: 'Publication Title',
       conferenceName: '',

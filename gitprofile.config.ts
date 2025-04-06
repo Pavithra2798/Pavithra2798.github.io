@@ -54,7 +54,7 @@ const CONFIG = {
             'Turn talk into text, effortlessly: Developed a user-friendly platform that effortlessly converts audio meetings into well-organized articles. Simply upload your meeting recordings, specify your desired length, and receive a well structured article with key points and speaker attribution.',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/article.jpg',
-          link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
+          link: 'https://github.com/Pavithra2798/Article_Content_Generation',
         },
         {
           title: 'Multilingual Document Discovery',

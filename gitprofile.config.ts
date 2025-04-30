@@ -67,10 +67,10 @@ const CONFIG = {
         {
           title: 'Credit Card Fraud Detection',
           description:
-            'Ask natural language questions to your dataset. Developed a targeted machine learning model using Random Forest to reduce unnecessary contact, Developed a targeted machine learning model using Random Forest to reduce unnecessary contact',
+            'Clustering out Crime: Applied clustering techniques to uncover subtle anomalies in high-dimensional credit card transaction data. Combined this with a targeted machine learning model to build a proactive fraud detection system, significantly improving the precision of flagged transactions and minimizing false positives.',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/credit_fraud.jpg',
-          link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
+          link: 'https://github.com/Pavithra2798/Credit_Card_Fraud_Clustering',
         },
         {
           title: 'CollectionsAI',

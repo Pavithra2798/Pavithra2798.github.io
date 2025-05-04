@@ -1,4 +1,4 @@
-import { Fragment } from 'react';
+umimport { Fragment } from 'react';
 import LazyImage from '../lazy-image';
 import { ga, skeleton } from '../../utils';
 import { SanitizedExternalProject } from '../../interfaces/sanitized-config';
@@ -93,7 +93,7 @@ const ExternalProjectCard = ({
             <div className="w-full">
               <div className="px-4">
                 <div className="text-center w-full">
-                  <h2 className="font-bold text-center opacity-80 text-base-content mb-2">
+                  <h2 className="font-medium text-center opacity-80 text-base-content mb-2">
                     {item.title}
                   </h2>
                   {item.imageUrl && (

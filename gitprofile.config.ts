@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization', 'Pavithra2798/Article_Content_Generation', 'Pavithra2798/Credit_Card_Fraud_Clustering'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -116,16 +116,15 @@ const CONFIG = {
   },
   skills: [
     'Python',
+    'Data Analysis',
+    'Data Visualization'
     'Machine Learning',
     'LLM',
     'GCP',
-    'MLFlow',
-    'Data analysis',
-    'Pandas',
     'SQL',
-    'PostgreSQL',
     'Git',
     'Docker',
+    'Tekton'
   ],
   // tools: [
   //   'PHP',
@@ -138,7 +137,7 @@ const CONFIG = {
       company: 'Tiger Analytics',
       position: 'Data Scientist',
       from: 'December 2024',
-      to: 'Present',
+      to: 'August 2025',
       companyLink: 'https://www.tigeranalytics.com/',
     },
     {
@@ -158,11 +157,17 @@ const CONFIG = {
   //   },
   // ],
   educations: [
+      {
+      institution: 'University of California, Santa Cruz',
+      degree: 'Masters in Computer Science and Engineering',
+      from: 'August 2025',
+      to: 'June 2027',
+    },
     {
       institution: 'Coimbatore Institute of Technology',
       degree: 'Bachelors in Computer Science and Engineering',
-      from: '2016',
-      to: '2020',
+      from: 'July 2016',
+      to: 'September 2020',
     },
     // {
     //   institution: 'Institution Name',

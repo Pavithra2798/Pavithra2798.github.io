@@ -117,14 +117,14 @@ const CONFIG = {
   skills: [
     'Python',
     'Data Analysis',
-    'Data Visualization'
+    'Data Visualization',
     'Machine Learning',
     'LLM',
     'GCP',
     'SQL',
     'Git',
     'Docker',
-    'Tekton'
+    'Tekton',
   ],
   // tools: [
   //   'PHP',

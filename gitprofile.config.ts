@@ -11,23 +11,6 @@ const CONFIG = {
    */
   base: '/',
   projects: {
-    github: {
-      display: true, // Display GitHub projects?
-      header: 'Github Projects',
-      mode: 'manual', // Mode can be: 'automatic' or 'manual'
-      automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
-        exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
-        },
-      },
-      manual: {
-        // Properties for manually specifying projects
-        projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization', 'Pavithra2798/Article_Content_Generation', 'Pavithra2798/Credit_Card_Fraud_Clustering'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
-    },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
@@ -81,6 +64,23 @@ const CONFIG = {
           link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
         }
       ],
+    },
+    github: {
+      display: true, // Display GitHub projects?
+      header: 'Github Projects',
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
+      automatic: {
+        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        limit: 8, // How many projects to display.
+        exclude: {
+          forks: false, // Forked projects will not be displayed if set to true.
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        },
+      },
+      manual: {
+        // Properties for manually specifying projects
+        projects: ['Pavithra2798/Question_Your_Dataset', 'Pavithra2798/Multilanguage_Video_Summarization', 'Pavithra2798/Article_Content_Generation', 'Pavithra2798/Credit_Card_Fraud_Clustering'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+      },
     },
   },
   seo: {

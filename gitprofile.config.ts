@@ -45,7 +45,7 @@ const CONFIG = {
             'Instant information, any language: Created a platform that transforms document search with LLM technology, enabling users to ask questions and receive relevant answers from lengthy documents in their preferred language, simplifying knowledge discovery.',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/knowledge_article.jpg',
-          link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
+          // link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
         },
         {
           title: 'Credit Card Fraud Detection',
@@ -55,14 +55,14 @@ const CONFIG = {
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/credit_fraud.jpg',
           link: 'https://github.com/Pavithra2798/Credit_Card_Fraud_Clustering',
         },
-        {
-          title: 'CollectionsAI',
-          description:
-            'Less Calls, Happy Customers: Developed a targeted machine learning model using Random Forest to reduce unnecessary contact attempts for delinquent customers resulting in 66% reduction in contact frequency and increasing customer satisfaction through personalized communications.',
-          imageUrl:
-            'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/collectionsAI.jpg',
-          link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
-        }
+        // {
+        //   title: 'CollectionsAI',
+        //   description:
+        //     'Less Calls, Happy Customers: Developed a targeted machine learning model using Random Forest to reduce unnecessary contact attempts for delinquent customers resulting in 66% reduction in contact frequency and increasing customer satisfaction through personalized communications.',
+        //   imageUrl:
+        //     'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/collectionsAI.jpg',
+        //   link: 'https://github.com/Pavithra2798/Question_Your_Dataset',
+        // }
       ],
     },
     github: {

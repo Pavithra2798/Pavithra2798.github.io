@@ -45,7 +45,7 @@ const CONFIG = {
             'Instant information, any language: Created a platform that transforms document search with LLM technology, enabling users to ask questions and receive relevant answers from lengthy documents in their preferred language, simplifying knowledge discovery.',
           imageUrl:
             'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/knowledge_article.jpg',
-          // link: 'https://github.com/Pavithra2798/Multilanguage_Video_Summarization',
+          link: 'https://github.com/Pavithra2798/Knowledge_Discovery',
         },
         {
           title: 'Credit Card Fraud Detection',

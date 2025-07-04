@@ -112,7 +112,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/Resume_Pavithra_Kandhasamy_Selvaraj.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/Pavithra2798/Pavithra2798.github.io/main/images/Pavithra_Kandhasamy_Selvaraj_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',

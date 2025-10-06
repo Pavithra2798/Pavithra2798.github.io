@@ -142,7 +142,7 @@ const CONFIG = {
     },
     {
       company: 'Ford Motor Private Limited',
-      position: 'Software engineer - AI/ML',
+      position: 'Machine Learning Engineer',
       from: 'July 2020',
       to: 'November 2024',
       companyLink: 'https://www.india.ford.com/about-ford/corporate/company-profile/',

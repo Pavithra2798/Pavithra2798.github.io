@@ -108,7 +108,7 @@ const CONFIG = {
     // telegram: '',
     // website: 'https://www.arifszn.com',
     // phone: '',
-    email: 'pavithraselvaraj98@gmail.com',
+    email: 'pavithrakselvaraj@gmail.com',
   },
   resume: {
     fileUrl:
@@ -116,22 +116,17 @@ const CONFIG = {
   },
   skills: [
     'Python',
-    'Data Analysis',
-    'Data Visualization',
+    'SQL',
+    'Data Science',
     'Machine Learning',
+    'Deep Learning',
+    'Data Analysis & Visualization',
     'LLM',
     'GCP',
-    'SQL',
-    'Git',
     'Docker',
     'Tekton',
   ],
-  // tools: [
-  //   'PHP',
-  //   'Laravel',
-  //   'JavaScript',
-  //   'React.js',
-  // ],
+
   experiences: [
     {
       company: 'Tiger Analytics',
